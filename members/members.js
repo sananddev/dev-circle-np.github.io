@@ -12,6 +12,18 @@ const members = [
       facebook: 'rameshsyn'
     }
   },
+  
+  // sandeep
+  {
+    fullName: 'Sandeep Pokhrel',
+    discordUsername: 'sandeep pokhrel#0897',
+    about: 'Developer | Designer | Student | Nepal',
+    links: {
+      github: 'sananddev',
+      twitter: 'Sandeep60837075',
+      facebook: 'sandeep.pokhrel.7'
+    }
+  },
   // ashish
   {
     fullName: 'Ashish Acharya',
